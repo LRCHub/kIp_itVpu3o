@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "逃走劇",
+  "base_artist": "キタニタツヤ",
+  "createdAt": "2026-02-11T08:12:58.101675Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "逃走劇",
+      "artist": "キタニタツヤ",
+      "has_synced": true,
+      "path": "select/01_逃走劇_キタニタツヤ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "逃走劇",
+      "artist": "Tatsuya Kitani",
+      "has_synced": true,
+      "path": "select/02_逃走劇_Tatsuya_Kitani.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "逃走劇",
+      "artist": "キタニタツヤ",
+      "has_synced": false,
+      "path": "select/pl_01_逃走劇_キタニタツヤ.txt"
+    }
+  ]
+}
